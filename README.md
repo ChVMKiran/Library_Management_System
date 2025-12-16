@@ -105,7 +105,7 @@ Run the SQL scripts for:
 
 ### 5️⃣ Start the Server
 ```bash
-node src/server.js
+npm start
 ```
 
 Server runs at:
