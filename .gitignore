@@ -21,9 +21,6 @@ Thumbs.db
 coverage/
 dist/
 
-# MySQL dump files (if any)
-*.sql
-
 # Temporary files
 *.tmp
 *.log
