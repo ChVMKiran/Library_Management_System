@@ -77,7 +77,7 @@ src/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/ChVMKiran/Library_Management_System.git
 cd library-management-api
 ```
 
@@ -199,5 +199,4 @@ postman/Library_Management_System_API.postman_collection.json
 ## 👤 Author
 
 **Ch V M Kiran**
-23P31A4211
 
